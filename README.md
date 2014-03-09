@@ -8,7 +8,7 @@ Shows a quick menu of all specs in the currently open Jasmine test spec suite. E
     it('should do something or rather', function() {
         ...
 
-    it('shouldn\'t do this or that', funciton() {
+    it('shouldn\'t do this or that', function() {
         ...
 
 
